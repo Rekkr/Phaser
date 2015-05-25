@@ -1,0 +1,7 @@
+Game Info
+=========
+
+*arcade shooter
+*high score
+*top down view
+*spaceships
